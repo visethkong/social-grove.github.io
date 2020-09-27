@@ -751,9 +751,11 @@ about
 */
 
 #benefits {
-  padding: 100px 0px;
+  padding: 80px 0px;
   position: relative;
   z-index: 9;
+  margin-bottom: 20px;
+
 }
 
 @media (max-width: 992px) {
@@ -765,7 +767,7 @@ about
 
 .features-item {
   border-radius: 5px;
-  padding: 60px 30px;
+  padding: 50px 30px;
   text-align: center;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
   margin-bottom: 20px;
@@ -818,7 +820,9 @@ promotion
 }
 
 #features {
-  padding: 100px 0px;
+  padding: 80px 0px;
+  padding-top: 80px;
+
 }
 
 #features .left-image {
@@ -870,7 +874,7 @@ testimonials
 }
 
 #testimonials {
-  padding-top: 100px;
+  padding-top: 80px;
   position: relative;
   z-index: 9;
 }
@@ -985,7 +989,7 @@ footer
 }
 
 footer {
-  margin-top: 200px;
+  margin-top: 50px;
   padding-top: 120px;
   background-image: url(../images/footer-bg.png);
   background-repeat: no-repeat;
